@@ -1,0 +1,5 @@
+# ignore emacs backups
+*~
+
+# ignore lisp files
+*.fasl
